@@ -17,7 +17,7 @@
   background-attachment: fixed;
   background-size: cover;">
   <nav class="navbar navbar-expand-lg navbar-dark "style="background-color:#8a242bd0;">
-  <a class="navbar-brand" href="index.php">RED CROSS YOUTH</a>
+  <a class="navbar-brand" href="../index.php">RED CROSS YOUTH</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
